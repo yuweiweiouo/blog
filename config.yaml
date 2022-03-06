@@ -1,8 +1,23 @@
 baseurl: https://blog.yuweiwei.net
 languageCode: zh-tw
 theme: hugo-theme-stack
-paginate: 5
+paginate: 8
 title: 魚尾家
+
+languages:
+    zh-tw:
+        languageName: 繁體中文
+        title: 魚尾家
+        weight: 1
+    en:
+        languageName: English
+        title: Yuweiwei Site
+        weight: 2
+    cn:
+        languageName: 中文
+        title: 演示站点
+        weight: 3
+    
 
 # Change it to your Disqus shortname before using
 disqusShortname: hugo-theme-stack
@@ -11,8 +26,8 @@ disqusShortname: hugo-theme-stack
 googleAnalytics:
 
 # Theme i18n support
-# Available values: en, fr, id, ja, ko, pt-br, zh-cn, zh-tw, es, de, nl, it, th, el, uk
-DefaultContentLanguage: en
+# Available values: en, fr, id, ja, ko, pt-br, zh-cn, zh-tw, es, de, nl, it, th, el, uk, ar
+DefaultContentLanguage: zh-tw
 
 # Set hasCJKLanguage to true if DefaultContentLanguage is in [zh-cn ja ko]
 # This will make .Summary and .WordCount behave correctly for CJK languages.
@@ -27,23 +42,23 @@ params:
         - post
     featuredImageField: image
     rssFullContent: true
-    favicon:
+    favicon: favicon.jpg
 
     footer:
-        since: 2020
-        customText:
+        since: 2022
+        customText: 
 
     dateFormat:
         published: Jan 02, 2006
         lastUpdated: Jan 02, 2006 15:04 MST
 
     sidebar:
-        emoji: 🍥
-        subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        # emoji: 🍥
+        # subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
         avatar:
             enabled: true
             local: true
-            src: img/avatar.png
+            src: img/avatar.jpg
 
     article:
         math: false
@@ -137,6 +152,9 @@ params:
             - type: archives
               params:
                   limit: 5
+            - type: categories
+              params:
+                  limit: 10
             - type: tag-cloud
               params:
                   limit: 10
@@ -174,15 +192,7 @@ params:
 ### See https://docs.stack.jimmycai.com/configuration/custom-menu.html
 ### To remove about, archive and search page menu item, remove `menu` field from their FrontMatter
 menu:
-    main:
-        - identifier: home
-          name: Home
-          url: /
-          weight: -100
-          params:
-              ### For demonstration purpose, the home link will be open in a new tab
-              newTab: true
-              icon: home
+    main: []
 
     social:
         - identifier: github
