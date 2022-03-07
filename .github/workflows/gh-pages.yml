@@ -24,6 +24,12 @@ jobs:
       - name: Build
         run: hugo --minify
 
+      - name: Set Domain
+        run: |
+          cp ./CNAME ./public/CNAME
+          echo `Domain 設置為 $(cat ./public/CNAME)`
+
+
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
