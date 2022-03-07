@@ -27,7 +27,7 @@ jobs:
       - name: Set Domain
         run: |
           cp ./CNAME ./public/CNAME
-          echo `Domain 設置為 $(cat ./public/CNAME)`
+          echo Domain 設置為 $(cat ./public/CNAME)
 
 
       - name: Deploy
