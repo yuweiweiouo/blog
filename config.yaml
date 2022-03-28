@@ -26,7 +26,7 @@ disableLanguages:
 disqusShortname: hugo-theme-stack
 
 # GA Tracking ID
-googleAnalytics:
+googleAnalytics: "UA-149824219-1"
 
 # Theme i18n support
 # Available values: en, fr, id, ja, ko, pt-br, zh-cn, zh-tw, es, de, nl, it, th, el, uk, ar
@@ -76,9 +76,9 @@ params:
         provider: disqus
 
         disqusjs:
-            shortname:
-            apiUrl:
-            apiKey:
+            shortname: "魚尾家"
+            apiUrl: "https://disqus.skk.moe/disqus/"
+            apiKey: "A5jg2HoIHSIdAxQqjrCI1OdsihNq3EDKmHr9uNdsTGH5f63wRiIG7woDopuv69ak"
             admin:
             adminLabel:
 
