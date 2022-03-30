@@ -76,7 +76,7 @@ params:
         provider: disqus
 
         disqusjs:
-            shortname: "魚尾家"
+            shortname: disqus_Rl1VJQYXpi
             apiUrl: "https://disqus.skk.moe/disqus/"
             apiKey: "A5jg2HoIHSIdAxQqjrCI1OdsihNq3EDKmHr9uNdsTGH5f63wRiIG7woDopuv69ak"
             admin:
