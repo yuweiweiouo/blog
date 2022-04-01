@@ -23,7 +23,7 @@ disableLanguages:
     - cn
 
 # Change it to your Disqus shortname before using
-disqusShortname: disqus_Rl1VJQYXpi
+disqusShortname: yuweiwei
 
 # GA Tracking ID
 googleAnalytics: "UA-149824219-1"
@@ -76,9 +76,9 @@ params:
         provider: disqus
 
         disqusjs:
-            shortname: disqus_Rl1VJQYXpi
+            shortname: yuweiwei
             apiUrl: "https://disqus.skk.moe/disqus/"
-            apiKey: "A5jg2HoIHSIdAxQqjrCI1OdsihNq3EDKmHr9uNdsTGH5f63wRiIG7woDopuv69ak"
+            apiKey: "PRpcgMSzPmIVQKZUosjMMVYCtn1u9MB3EoNAQFAjV6vIkkuGSrKF16XWY8q9sqqI"
             admin:
             adminLabel:
 
