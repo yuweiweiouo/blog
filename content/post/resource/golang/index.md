@@ -1,12 +1,12 @@
 ---
 title: Golang 學習資源
-# description: 來來來
 date: 2022-04-01
 slug: resource/golang
 image: header.png
+tags:
+    - Golang
 categories:
     - 學習資源
-    - Golang
 ---
 
 ## 教學文件
