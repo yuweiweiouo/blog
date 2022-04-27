@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Golang on 魚尾家</title><link>https://blog.yuweiwei.net/categories/golang/</link><description>Recent content in Golang on 魚尾家</description><generator>Hugo -- gohugo.io</generator><language>zh-tw</language><lastBuildDate>Fri, 01 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.yuweiwei.net/categories/golang/index.xml" rel="self" type="application/rss+xml"/><item><title>Golang 學習資源</title><link>https://blog.yuweiwei.net/p/golang-%E5%AD%B8%E7%BF%92%E8%B3%87%E6%BA%90/</link><pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate><guid>https://blog.yuweiwei.net/p/golang-%E5%AD%B8%E7%BF%92%E8%B3%87%E6%BA%90/</guid><description>&lt;img src="https://blog.yuweiwei.net/p/golang-%E5%AD%B8%E7%BF%92%E8%B3%87%E6%BA%90/header.png" alt="Featured image of post Golang 學習資源" />&lt;h2 id="教學文件">教學文件&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a class="link" href="https://joshhu.gitbooks.io/dockercommands/content/" target="_blank" rel="noopener"
+>Go语言标准库&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="https://eddycjy.gitbook.io/golang/" target="_blank" rel="noopener"
+>跟煎魚學Go&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="https://chai2010.cn/advanced-go-programming-book/" target="_blank" rel="noopener"
+>Go语言高级编程&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="其他">其他&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a class="link" href="https://github.com/jobbole/awesome-go-cn/blob/master/README.md" target="_blank" rel="noopener"
+>套件大全&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="https://github.com/xxjwxc/uber_go_guide_cn" target="_blank" rel="noopener"
+>Uber Go規範&lt;/a>&lt;/li>
+&lt;/ul></description></item></channel></rss>
