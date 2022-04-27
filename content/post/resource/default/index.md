@@ -1,6 +1,7 @@
 ---
 title: 學習資源
 date: 2022-04-01
+slug: resource
 image: header.jpg
 categories:
     - 學習資源
