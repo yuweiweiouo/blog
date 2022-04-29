@@ -13,6 +13,8 @@ categories:
 - [Go语言标准库](https://books.studygolang.com/The-Golang-Standard-Library-by-Example/)
 - [跟煎魚學Go](https://eddycjy.gitbook.io/golang/)
 - [Go语言高级编程](https://chai2010.cn/advanced-go-programming-book/)
+- [Go語言原本](https://golang.design/under-the-hood/)
 ## 其他
+- [cheatsheet](https://books.studygolang.com/gobyexample/)
 - [套件大全](https://github.com/jobbole/awesome-go-cn/blob/master/README.md)
 - [Uber Go規範](https://github.com/xxjwxc/uber_go_guide_cn)
