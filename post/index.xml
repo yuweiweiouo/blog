@@ -4,14 +4,16 @@
 >docker教學&lt;/a>&lt;/li>
 &lt;/ul></description></item><item><title>Golang 學習資源</title><link>https://blog.yuweiwei.net/p/resource/golang/</link><pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate><guid>https://blog.yuweiwei.net/p/resource/golang/</guid><description>&lt;img src="https://blog.yuweiwei.net/p/resource/golang/header.png" alt="Featured image of post Golang 學習資源" />&lt;h2 id="教學文件">教學文件&lt;/h2>
 &lt;ul>
+&lt;li>&lt;a class="link" href="https://golang.design/under-the-hood/" target="_blank" rel="noopener"
+>Go語言原本&lt;/a>&lt;/li>
 &lt;li>&lt;a class="link" href="https://books.studygolang.com/The-Golang-Standard-Library-by-Example/" target="_blank" rel="noopener"
 >Go语言标准库&lt;/a>&lt;/li>
 &lt;li>&lt;a class="link" href="https://eddycjy.gitbook.io/golang/" target="_blank" rel="noopener"
 >跟煎魚學Go&lt;/a>&lt;/li>
 &lt;li>&lt;a class="link" href="https://chai2010.cn/advanced-go-programming-book/" target="_blank" rel="noopener"
 >Go语言高级编程&lt;/a>&lt;/li>
-&lt;li>&lt;a class="link" href="https://golang.design/under-the-hood/" target="_blank" rel="noopener"
->Go語言原本&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="https://geektutu.com/post/high-performance-go.html" target="_blank" rel="noopener"
+>Go语言高性能编程&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="其他">其他&lt;/h2>
 &lt;ul>
