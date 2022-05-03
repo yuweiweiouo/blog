@@ -16,6 +16,7 @@ categories:
 - [Go语言高级编程](https://chai2010.cn/advanced-go-programming-book/)
 - [Go语言高性能编程](https://geektutu.com/post/high-performance-go.html)
 ## 其他
-- [cheatsheet](https://go.yami.io/)
+- [Go by example](https://gobyexample.com/)
+- [Slice 的 cheatsheet](https://ueokande.github.io/go-slice-tricks/)
 - [套件大全](https://github.com/jobbole/awesome-go-cn/blob/master/README.md)
 - [Uber Go規範](https://github.com/xxjwxc/uber_go_guide_cn)
