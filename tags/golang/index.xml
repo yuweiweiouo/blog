@@ -17,6 +17,8 @@
 &lt;/ul>
 &lt;h2 id="其他">其他&lt;/h2>
 &lt;ul>
+&lt;li>&lt;a class="link" href="https://gobyexample.com/" target="_blank" rel="noopener"
+>Go by example&lt;/a>&lt;/li>
 &lt;li>&lt;a class="link" href="https://ueokande.github.io/go-slice-tricks/" target="_blank" rel="noopener"
 >Slice cheatsheet&lt;/a>&lt;/li>
 &lt;li>&lt;a class="link" href="https://go.yami.io/" target="_blank" rel="noopener"
