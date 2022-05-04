@@ -12,10 +12,10 @@ categories:
 ## 教學文件
 - [Go語言原本](https://golang.design/under-the-hood/)
 - [Go语言标准库](https://books.studygolang.com/The-Golang-Standard-Library-by-Example/)
-- [Go编程时光](https://golang.iswbm.com/)
+- [Go进阶训练营](https://lailin.xyz/post/go-training-01.html)
 - [跟煎魚學Go](https://eddycjy.com/)
 - [Go语言高级编程](https://chai2010.cn/advanced-go-programming-book/)
-- [Go 语言设计与实现](https://draveness.me/golang/)
+- [Go语言设计与实现](https://draveness.me/golang/)
 - [Go语言高性能编程](https://geektutu.com/post/high-performance-go.html)
 ## 其他
 - [Go by example](https://gobyexample.com/)
