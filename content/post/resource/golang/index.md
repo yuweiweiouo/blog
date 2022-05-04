@@ -20,6 +20,5 @@ categories:
 ## 其他
 - [Go by example](https://gobyexample.com/)
 - [Slice cheatsheet](https://ueokande.github.io/go-slice-tricks/)
-- [範例cheatsheet](https://go.yami.io/)
 - [套件大全](https://github.com/jobbole/awesome-go-cn/blob/master/README.md)
 - [Uber Go規範](https://github.com/xxjwxc/uber_go_guide_cn)
