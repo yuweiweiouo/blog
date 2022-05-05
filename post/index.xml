@@ -1,4 +1,17 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on 魚尾家</title><link>https://blog.yuweiwei.net/post/</link><description>Recent content in Posts on 魚尾家</description><generator>Hugo -- gohugo.io</generator><language>zh-tw</language><lastBuildDate>Fri, 01 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.yuweiwei.net/post/index.xml" rel="self" type="application/rss+xml"/><item><title>Docker 學習資源</title><link>https://blog.yuweiwei.net/p/resource/docker/</link><pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate><guid>https://blog.yuweiwei.net/p/resource/docker/</guid><description>&lt;img src="https://blog.yuweiwei.net/p/resource/docker/header.png" alt="Featured image of post Docker 學習資源" />&lt;h2 id="教學文件">教學文件&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on 魚尾家</title><link>https://blog.yuweiwei.net/post/</link><description>Recent content in Posts on 魚尾家</description><generator>Hugo -- gohugo.io</generator><language>zh-tw</language><lastBuildDate>Thu, 05 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.yuweiwei.net/post/index.xml" rel="self" type="application/rss+xml"/><item><title>推薦的 Go library</title><link>https://blog.yuweiwei.net/p/%E6%8E%A8%E8%96%A6%E7%9A%84-go-library/</link><pubDate>Thu, 05 May 2022 00:00:00 +0000</pubDate><guid>https://blog.yuweiwei.net/p/%E6%8E%A8%E8%96%A6%E7%9A%84-go-library/</guid><description>&lt;h2 id="基礎設施">基礎設施&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a class="link" href="https://github.com/spf13/cobra" target="_blank" rel="noopener"
+>spf13/cobra&lt;/a>：CLI 神器&lt;/li>
+&lt;li>&lt;a class="link" href="https://github.com/samber/lo" target="_blank" rel="noopener"
+>samber/lo&lt;/a>：跟 js 的 loadash 差不多&lt;/li>
+&lt;/ul>
+&lt;h2 id="json-包">json 包&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a class="link" href="https://github.com/tidwall/gjson" target="_blank" rel="noopener"
+>tidwall/gjson&lt;/a>：用來拿json的&lt;/li>
+&lt;li>&lt;a class="link" href="https://github.com/tidwall/sjson" target="_blank" rel="noopener"
+>tidwall/sjson&lt;/a>：用來改json的&lt;/li>
+&lt;/ul></description></item><item><title>Docker 學習資源</title><link>https://blog.yuweiwei.net/p/resource/docker/</link><pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate><guid>https://blog.yuweiwei.net/p/resource/docker/</guid><description>&lt;img src="https://blog.yuweiwei.net/p/resource/docker/header.png" alt="Featured image of post Docker 學習資源" />&lt;h2 id="教學文件">教學文件&lt;/h2>
 &lt;ul>
 &lt;li>&lt;a class="link" href="https://joshhu.gitbooks.io/dockercommands/content/" target="_blank" rel="noopener"
 >docker教學&lt;/a>&lt;/li>
