@@ -17,6 +17,7 @@ categories:
 - [Go语言高级编程](https://chai2010.cn/advanced-go-programming-book/)
 - [Go语言设计与实现](https://draveness.me/golang/)
 - [Go语言高性能编程](https://geektutu.com/post/high-performance-go.html)
+- [大補包](https://github.com/YSGStudyHards/Introduction-to-Golang)
 ## 其他
 - [Go by example](https://gobyexample.com/)
 - [Slice cheatsheet](https://ueokande.github.io/go-slice-tricks/)
