@@ -11,11 +11,11 @@
 >tidwall/gjson&lt;/a>：用來拿json的&lt;/li>
 &lt;li>&lt;a class="link" href="https://github.com/tidwall/sjson" target="_blank" rel="noopener"
 >tidwall/sjson&lt;/a>：用來改json的&lt;/li>
-&lt;/ul></description></item><item><title>Docker 學習資源</title><link>https://blog.yuweiwei.net/p/resource/docker/</link><pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate><guid>https://blog.yuweiwei.net/p/resource/docker/</guid><description>&lt;img src="https://blog.yuweiwei.net/p/resource/docker/header.png" alt="Featured image of post Docker 學習資源" />&lt;h2 id="教學文件">教學文件&lt;/h2>
+&lt;/ul></description></item><item><title>Docker 學習資源</title><link>https://blog.yuweiwei.net/p/resource/docker/</link><pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate><guid>https://blog.yuweiwei.net/p/resource/docker/</guid><description>&lt;h2 id="教學文件">教學文件&lt;/h2>
 &lt;ul>
 &lt;li>&lt;a class="link" href="https://joshhu.gitbooks.io/dockercommands/content/" target="_blank" rel="noopener"
 >docker教學&lt;/a>&lt;/li>
-&lt;/ul></description></item><item><title>Golang 學習資源</title><link>https://blog.yuweiwei.net/p/resource/golang/</link><pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate><guid>https://blog.yuweiwei.net/p/resource/golang/</guid><description>&lt;img src="https://blog.yuweiwei.net/p/resource/golang/header.png" alt="Featured image of post Golang 學習資源" />&lt;h2 id="教學文件">教學文件&lt;/h2>
+&lt;/ul></description></item><item><title>Golang 學習資源</title><link>https://blog.yuweiwei.net/p/resource/golang/</link><pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate><guid>https://blog.yuweiwei.net/p/resource/golang/</guid><description>&lt;h2 id="教學文件">教學文件&lt;/h2>
 &lt;ul>
 &lt;li>&lt;a class="link" href="https://golang.design/under-the-hood/" target="_blank" rel="noopener"
 >Go語言原本&lt;/a>&lt;/li>
@@ -46,7 +46,7 @@
 >Uber Go規範&lt;/a>&lt;/li>
 &lt;li>&lt;a class="link" href="https://github.com/sdgmf/go-project-sample" target="_blank" rel="noopener"
 >Project Sample&lt;/a>&lt;/li>
-&lt;/ul></description></item><item><title>學習資源</title><link>https://blog.yuweiwei.net/p/resource/</link><pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate><guid>https://blog.yuweiwei.net/p/resource/</guid><description>&lt;img src="https://blog.yuweiwei.net/p/resource/header.jpg" alt="Featured image of post 學習資源" />&lt;h2 id="書單">書單&lt;/h2>
+&lt;/ul></description></item><item><title>學習資源</title><link>https://blog.yuweiwei.net/p/resource/</link><pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate><guid>https://blog.yuweiwei.net/p/resource/</guid><description>&lt;h2 id="書單">書單&lt;/h2>
 &lt;ul>
 &lt;li>&lt;a class="link" href="https://vonng.github.io/ddia/#/" target="_blank" rel="noopener"
 >设计数据密集型应用&lt;/a>&lt;/li>
@@ -62,4 +62,4 @@
 &lt;ul>
 &lt;li>&lt;a class="link" href="https://labuladong.github.io/algo/" target="_blank" rel="noopener"
 >labuladong&lt;/a>&lt;/li>
-&lt;/ul></description></item><item><title>關於我</title><link>https://blog.yuweiwei.net/%E9%97%9C%E6%96%BC%E6%88%91/</link><pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate><guid>https://blog.yuweiwei.net/%E9%97%9C%E6%96%BC%E6%88%91/</guid><description/></item><item><title>搜尋</title><link>https://blog.yuweiwei.net/search/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://blog.yuweiwei.net/search/</guid><description/></item></channel></rss>
+&lt;/ul></description></item><item><title>搜尋</title><link>https://blog.yuweiwei.net/search/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://blog.yuweiwei.net/search/</guid><description/></item><item><title>關於我</title><link>https://blog.yuweiwei.net/%E9%97%9C%E6%96%BC%E6%88%91/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://blog.yuweiwei.net/%E9%97%9C%E6%96%BC%E6%88%91/</guid><description/></item></channel></rss>
