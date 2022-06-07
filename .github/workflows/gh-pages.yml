@@ -24,6 +24,10 @@ jobs:
       - name: Build
         run: hugo --minify
 
+      - name: Copy Assets
+        run: |
+          cp ./assets/icons/* ./themes/assets/icons/
+
       - name: Set Domain
         run: |
           cp ./CNAME ./public/CNAME
