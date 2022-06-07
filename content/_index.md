@@ -1,8 +1,8 @@
 ---
 menu:
     main:
-        name: 首頁
+        name: 文章
         weight: 100
         params:
-            icon: home
+            icon: notebook
 ---

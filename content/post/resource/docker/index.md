@@ -2,7 +2,6 @@
 title: Docker 學習資源
 date: 2022-04-01
 slug: resource/docker
-image: header.png
 tags:
     - Docker
 categories:
