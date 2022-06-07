@@ -21,12 +21,13 @@ jobs:
           hugo-version: '0.91.2'
           extended: true
 
-      - name: Build
-        run: hugo --minify
-
       - name: Copy Assets
         run: |
           cp ./assets/icons/* ./themes/assets/icons/
+          
+      - name: Build
+        run: hugo --minify
+
 
       - name: Set Domain
         run: |
